@@ -1,0 +1,2 @@
+servicestack.plugin.yaml
+========================
